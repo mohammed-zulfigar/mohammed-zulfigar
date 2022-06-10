@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mohammed-zulfigar
+- 👀 I’m interested in python ML, Frontend Development (React) , UX Designing
+- 🌱 I’m currently learning DBMS
+- 💞️ I’m looking to collaborate on ML Projects
+- 📫 reach me on https://zulfi.me
